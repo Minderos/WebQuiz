@@ -1,0 +1,92 @@
+.choice-container {
+    display: flex;
+    margin-bottom: 1rem;
+    width: 100%;
+    font-size: 2rem;
+    border: 0.1rem solid #ed840f;
+    border-radius: 0.5rem;
+
+}
+
+.choice-prefix {
+    border: 0.1rem solid #ed840f;
+    border-right: 0.2rem solid #ed840f;
+    border-radius: 0.5rem;
+    padding: 1.5rem 2.5rem;
+}
+
+.choice-answer {
+    width: 100%;
+    padding: 1.5rem;
+}
+
+
+@media(hover: hover) and (pointer: fine) {
+
+    .choice-container:hover>* {
+        color: #f4f007;
+        border: 0.1rem solid #f4f007;
+        cursor: pointer;
+        transform: translateY(-0.1rem);
+        transition: transform 150ms;
+        box-shadow: 0 0.3rem 0.5rem 0 rgba(245, 242, 79, 0.798);
+    }
+}
+
+
+.correct-answer,
+.correct-answer>* {
+    background: #0fd3236b;
+    border: #0fd322, 0fd3236b solid, 0.3rem;
+    box-shadow: 0 0.3rem 0.5rem 0 #0fd3236b;
+}
+
+.incorrect-answer,
+incorrect-answer>* {
+    background: #ff0f0fb8;
+    border: #ff0f0f, solid, 0.3rem;
+    box-shadow: 0 0.3rem 0.5rem 0 #ff0f0fb8;
+}
+
+
+/* hud */
+#hud {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1rem;
+}
+
+#hud-score,
+#hud-counter {
+    text-align: center;
+}
+
+.hud-info {
+    font-size: 2.2rem;
+
+
+}
+
+#score {
+    font-size: 4rem;
+}
+
+/* PROGRESSBAR */
+
+#progressbar {
+    margin-top: 1rem;
+    width: 20rem;
+    height: 3rem;
+    border: #ed840f solid 0.2rem;
+    border-radius: 1rem;
+
+}
+
+#fill-progressbar {
+    width: 0;
+    height: 2.6rem;
+    background-color: #ed840f;
+    border-color: #ed840f;
+    border-radius: 0.7rem;
+}

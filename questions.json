@@ -1,0 +1,762 @@
+[
+    {
+        "question": "Wer schrieb das Buch \"Die Odyssee\"?",
+        "choice1": "Homer",
+        "choice2": "Shakespeare",
+        "choice3": "Dante",
+        "choice4": "Goethe",
+        "answer": 1
+    },
+    {
+        "question": "Welches Element hat das chemische Symbol \"Fe\"?",
+        "choice1": "Kalium",
+        "choice2": "Eisen",
+        "choice3": "Silber",
+        "choice4": "Gold",
+        "answer": 2
+    },
+    {
+        "question": "Wie viele Spieler hat eine Fußballmannschaft auf dem Feld?",
+        "choice1": "9",
+        "choice2": "10",
+        "choice3": "11",
+        "choice4": "12",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Zeitzonen gibt es weltweit?",
+        "choice1": "12",
+        "choice2": "20",
+        "choice3": "24",
+        "choice4": "30",
+        "answer": 3
+    },
+    {
+        "question": "Was ist die höchste Bergkette der Welt?",
+        "choice1": "Rocky Mountains",
+        "choice2": "Anden",
+        "choice3": "Himalaya",
+        "choice4": "Alpen",
+        "answer": 3
+    },
+    {
+        "question": "Wie lautet die chemische Formel für Kohlendioxid?",
+        "choice1": "CO2",
+        "choice2": "H2O",
+        "choice3": "N2O",
+        "choice4": "O2",
+        "answer": 1
+    },
+    {
+        "question": "In welchem Jahr fand die erste bemannte Mondlandung statt?",
+        "choice1": "1965",
+        "choice2": "1969",
+        "choice3": "1972",
+        "choice4": "1975",
+        "answer": 2
+    },
+    {
+        "question": "Wie viele Beine hat eine Spinne?",
+        "choice1": "4",
+        "choice2": "6",
+        "choice3": "8",
+        "choice4": "10",
+        "answer": 3
+    },
+    {
+        "question": "Wer war der erste Mensch im Weltraum?",
+        "choice1": "Neil Armstrong",
+        "choice2": "Buzz Aldrin",
+        "choice3": "Yuri Gagarin",
+        "choice4": "John Glenn",
+        "answer": 3
+    },
+    {
+        "question": "Wer hat das Telefon erfunden?",
+        "choice1": "Alexander Graham Bell",
+        "choice2": "Thomas Edison",
+        "choice3": "Nikola Tesla",
+        "choice4": "Albert Einstein",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Farben hat ein Regenbogen?",
+        "choice1": "3",
+        "choice2": "5",
+        "choice3": "7",
+        "choice4": "9",
+        "answer": 3
+    },
+    {
+        "question": "Welche ist die längste Fluss in der Welt?",
+        "choice1": "Nil",
+        "choice2": "Amazonas",
+        "choice3": "Mississippi",
+        "choice4": "Jangtsekiang",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Land der Welt?",
+        "choice1": "China",
+        "choice2": "USA",
+        "choice3": "Russland",
+        "choice4": "Indien",
+        "answer": 3
+    },
+    {
+        "question": "Was ist die chemische Formel für Salz?",
+        "choice1": "NaCl",
+        "choice2": "H2O",
+        "choice3": "CO2",
+        "choice4": "C6H12O6",
+        "answer": 1
+    },
+    {
+        "question": "Wer hat die Relativitätstheorie entwickelt?",
+        "choice1": "Isaac Newton",
+        "choice2": "Albert Einstein",
+        "choice3": "Stephen Hawking",
+        "choice4": "Max Planck",
+        "answer": 2
+    },
+    {
+        "question": "Wie heißt die berühmte niederländische Malerin des 17. Jahrhunderts?",
+        "choice1": "Frida Kahlo",
+        "choice2": "Georgia O'Keeffe",
+        "choice3": "Rembrandt",
+        "choice4": "Van Gogh",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Ozeane gibt es auf der Erde?",
+        "choice1": "2",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das längste Gebirge in Südamerika?",
+        "choice1": "Anden",
+        "choice2": "Rocky Mountains",
+        "choice3": "Himalaya",
+        "choice4": "Alpen",
+        "answer": 1
+    },
+    {
+        "question": "Wie lautet das chemische Symbol für Gold?",
+        "choice1": "Ag",
+        "choice2": "Au",
+        "choice3": "Cu",
+        "choice4": "Fe",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das kleinste Land der Welt?",
+        "choice1": "Vatikanstadt",
+        "choice2": "Monaco",
+        "choice3": "Malta",
+        "choice4": "San Marino",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die Hauptstadt von Japan?",
+        "choice1": "Kyoto",
+        "choice2": "Tokio",
+        "choice3": "Osaka",
+        "choice4": "Hiroshima",
+        "answer": 2
+    },
+    {
+        "question": "Wie viele Spieler hat ein Volleyballteam auf dem Feld?",
+        "choice1": "4",
+        "choice2": "6",
+        "choice3": "8",
+        "choice4": "10",
+        "answer": 2
+    },
+    {
+        "question": "Wer schrieb das Buch \"Harry Potter und der Stein der Weisen\"?",
+        "choice1": "J.R.R. Tolkien",
+        "choice2": "J.K. Rowling",
+        "choice3": "C.S. Lewis",
+        "choice4": "George R.R. Martin",
+        "answer": 2
+    },
+    {
+        "question": "Welche ist die größte Wüste der Welt?",
+        "choice1": "Sahara",
+        "choice2": "Gobi",
+        "choice3": "Atacama",
+        "choice4": "Antarktis",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die chemische Formel für Sauerstoff?",
+        "choice1": "O2",
+        "choice2": "H2O",
+        "choice3": "CO2",
+        "choice4": "N2",
+        "answer": 1
+    },
+    {
+        "question": "Wer malte das Gemälde \"Die Schrei\"?",
+        "choice1": "Pablo Picasso",
+        "choice2": "Claude Monet",
+        "choice3": "Edvard Munch",
+        "choice4": "Salvador Dalí",
+        "answer": 3
+    },
+    {
+        "question": "Wie lautet die Vorwahl für Deutschland?",
+        "choice1": "+44",
+        "choice2": "+33",
+        "choice3": "+49",
+        "choice4": "+39",
+        "answer": 3
+    },
+    {
+        "question": "Welches ist das größte Meer der Welt?",
+        "choice1": "Atlantischer Ozean",
+        "choice2": "Indischer Ozean",
+        "choice3": "Arktischer Ozean",
+        "choice4": "Pazifischer Ozean",
+        "answer": 4
+    },
+    {
+        "question": "Wer schrieb das Buch \"1984\"?",
+        "choice1": "George Orwell",
+        "choice2": "Aldous Huxley",
+        "choice3": "Ray Bradbury",
+        "choice4": "H.G. Wells",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Jahre dauert eine Amtszeit des US-Präsidenten?",
+        "choice1": "2",
+        "choice2": "4",
+        "choice3": "6",
+        "choice4": "8",
+        "answer": 2
+    },
+    {
+        "question": "Wer ist der Autor des Buches \"Der Hobbit\"?",
+        "choice1": "C.S. Lewis",
+        "choice2": "J.R.R. Tolkien",
+        "choice3": "George R.R. Martin",
+        "choice4": "Terry Pratchett",
+        "answer": 2
+    },
+    {
+        "question": "In welchem Jahr wurde die Berliner Mauer gebaut?",
+        "choice1": "1945",
+        "choice2": "1953",
+        "choice3": "1961",
+        "choice4": "1989",
+        "answer": 3
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der Name der Rose\"?",
+        "choice1": "Dan Brown",
+        "choice2": "Umberto Eco",
+        "choice3": "Thomas Mann",
+        "choice4": "Friedrich Dürrenmatt",
+        "answer": 2
+    },
+    {
+        "question": "Welcher ist der größte Kontinent der Erde?",
+        "choice1": "Afrika",
+        "choice2": "Europa",
+        "choice3": "Asien",
+        "choice4": "Nordamerika",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Milliarden Menschen gibt es schätzungsweise auf der Erde?",
+        "choice1": "4",
+        "choice2": "6",
+        "choice3": "8",
+        "choice4": "10",
+        "answer": 3
+    },
+    {
+        "question": "Wer hat das Gemälde \"Die letzte Abendmahl\" gemalt?",
+        "choice1": "Leonardo da Vinci",
+        "choice2": "Michelangelo",
+        "choice3": "Raffael",
+        "choice4": "Vincent van Gogh",
+        "answer": 1
+    },
+    {
+        "question": "Wie heißt die berühmteste Glocke der Welt?",
+        "choice1": "Big Ben",
+        "choice2": "Liberty Bell",
+        "choice3": "Eiffelturm",
+        "choice4": "Christusstatue",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das längste Fluss in Europa?",
+        "choice1": "Rhein",
+        "choice2": "Themse",
+        "choice3": "Donau",
+        "choice4": "Wolga",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Sterne hat die EU-Flagge?",
+        "choice1": "10",
+        "choice2": "12",
+        "choice3": "14",
+        "choice4": "16",
+        "answer": 2
+    },
+    {
+        "question": "Welcher ist der höchste Berg der Welt?",
+        "choice1": "Mount Everest",
+        "choice2": "K2",
+        "choice3": "Matterhorn",
+        "choice4": "Mount Kilimanjaro",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die Hauptstadt von Brasilien?",
+        "choice1": "São Paulo",
+        "choice2": "Rio de Janeiro",
+        "choice3": "Brasília",
+        "choice4": "Salvador",
+        "answer": 3
+    },
+    {
+        "question": "Wie heißt die berühmteste Oper von Wolfgang Amadeus Mozart?",
+        "choice1": "Die Zauberflöte",
+        "choice2": "Don Giovanni",
+        "choice3": "Die Fledermaus",
+        "choice4": "Carmen",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das kleinste Meer der Welt?",
+        "choice1": "Mittelmeer",
+        "choice2": "Karibisches Meer",
+        "choice3": "Rotes Meer",
+        "choice4": "Totes Meer",
+        "answer": 4
+    },
+    {
+        "question": "Wer hat das Gemälde \"Die Mona Lisa\" gemalt?",
+        "choice1": "Rembrandt",
+        "choice2": "Vincent van Gogh",
+        "choice3": "Leonardo da Vinci",
+        "choice4": "Pablo Picasso",
+        "answer": 3
+    },
+    {
+        "question": "Wie heißt die berühmteste Schlucht der USA?",
+        "choice1": "Grand Canyon",
+        "choice2": "Yosemite Valley",
+        "choice3": "Zion Canyon",
+        "choice4": "Bryce Canyon",
+        "answer": 1
+    },
+    {
+        "question": "Wie lautet das chemische Symbol für Wasser?",
+        "choice1": "Ag",
+        "choice2": "Au",
+        "choice3": "Cu",
+        "choice4": "H2O",
+        "answer": 4
+    },
+    {
+        "question": "Wer schrieb das Buch \"Stolz und Vorurteil\"?",
+        "choice1": "Jane Austen",
+        "choice2": "Charlotte Brontë",
+        "choice3": "Emily Brontë",
+        "choice4": "Louisa May Alcott",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Riff der Welt?",
+        "choice1": "Great Barrier Reef",
+        "choice2": "Belize Barrier Reef",
+        "choice3": "Tubbataha-Riff",
+        "choice4": "Korallenriff von Andros",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Knochen hat ein erwachsener Mensch?",
+        "choice1": "150",
+        "choice2": "206",
+        "choice3": "250",
+        "choice4": "300",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das größte Land in Südamerika?",
+        "choice1": "Brasilien",
+        "choice2": "Argentinien",
+        "choice3": "Kolumbien",
+        "choice4": "Peru",
+        "answer": 1
+    },
+    {
+        "question": "Welcher ist der längste Fluss in Afrika?",
+        "choice1": "Nil",
+        "choice2": "Kongo",
+        "choice3": "Sambesi",
+        "choice4": "Niger",
+        "answer": 1
+    },
+    {
+        "question": "Wie lautet die chemische Formel für Wasserstoff?",
+        "choice1": "H2O",
+        "choice2": "CO2",
+        "choice3": "N2",
+        "choice4": "H",
+        "answer": 4
+    },
+    {
+        "question": "Wer hat das Gemälde \"Die Nacht\" gemalt?",
+        "choice1": "Pablo Picasso",
+        "choice2": "Vincent van Gogh",
+        "choice3": "Salvador Dalí",
+        "choice4": "Edvard Munch",
+        "answer": 4
+    },
+    {
+        "question": "Welcher Planet ist der größte in unserem Sonnensystem?",
+        "choice1": "Mars",
+        "choice2": "Jupiter",
+        "choice3": "Venus",
+        "choice4": "Saturn",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das tiefste Gewässer der Erde?",
+        "choice1": "Tiefseegraben von Puerto Rico",
+        "choice2": "Marianengraben",
+        "choice3": "Philippinengraben",
+        "choice4": "Kermadecgraben",
+        "answer": 2
+    },
+    {
+        "question": "Wie viele Beine hat eine Spinne?",
+        "choice1": "4",
+        "choice2": "6",
+        "choice3": "8",
+        "choice4": "10",
+        "answer": 3
+    },
+    {
+        "question": "Wer schrieb das Buch \"Die Verwandlung\"?",
+        "choice1": "Franz Kafka",
+        "choice2": "Friedrich Nietzsche",
+        "choice3": "Thomas Mann",
+        "choice4": "Hermann Hesse",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Bundesstaaten hat die USA?",
+        "choice1": "48",
+        "choice2": "50",
+        "choice3": "52",
+        "choice4": "54",
+        "answer": 2
+    },
+    {
+        "question": "Welcher ist der längste Fluss in den USA?",
+        "choice1": "Mississippi River",
+        "choice2": "Missouri River",
+        "choice3": "Colorado River",
+        "choice4": "Columbia River",
+        "answer": 1
+    },
+    {
+        "question": "Wie lautet die chemische Formel für Kohlenstoffmonoxid?",
+        "choice1": "CO",
+        "choice2": "CO2",
+        "choice3": "H2O",
+        "choice4": "CH4",
+        "answer": 1
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der kleine Prinz\"?",
+        "choice1": "Antoine de Saint-Exupéry",
+        "choice2": "Jules Verne",
+        "choice3": "Voltaire",
+        "choice4": "Victor Hugo",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Land in Nordamerika?",
+        "choice1": "USA",
+        "choice2": "Kanada",
+        "choice3": "Mexiko",
+        "choice4": "Kuba",
+        "answer": 2
+    },
+    {
+        "question": "Was ist die Hauptstadt von Spanien?",
+        "choice1": "Barcelona",
+        "choice2": "Valencia",
+        "choice3": "Sevilla",
+        "choice4": "Madrid",
+        "answer": 4
+    },
+    {
+        "question": "Welches ist das älteste Weltwunder der Antike?",
+        "choice1": "Hängende Gärten von Babylon",
+        "choice2": "Pyramiden von Gizeh",
+        "choice3": "Zeusstatue in Olympia",
+        "choice4": "Mausoleum von Halikarnassos",
+        "answer": 2
+    },
+    {
+        "question": "Wer schrieb das Buch \"1984\"?",
+        "choice1": "George Orwell",
+        "choice2": "Aldous Huxley",
+        "choice3": "Ray Bradbury",
+        "choice4": "Arthur C. Clarke",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Tier der Welt?",
+        "choice1": "Giraffe",
+        "choice2": "Elefant",
+        "choice3": "Blauwal",
+        "choice4": "Krokodil",
+        "answer": 3
+    },
+    {
+        "question": "Wer hat die Relativitätstheorie entwickelt?",
+        "choice1": "Isaac Newton",
+        "choice2": "Albert Einstein",
+        "choice3": "Niels Bohr",
+        "choice4": "Max Planck",
+        "answer": 2
+    },
+    {
+        "question": "Wie lautet die chemische Formel für Salzsäure?",
+        "choice1": "HCl",
+        "choice2": "H2SO4",
+        "choice3": "NaCl",
+        "choice4": "CO2",
+        "answer": 1
+    },
+    {
+        "question": "Wer schrieb das Buch \"Moby-Dick\"?",
+        "choice1": "Herman Melville",
+        "choice2": "Mark Twain",
+        "choice3": "Nathaniel Hawthorne",
+        "choice4": "Edgar Allan Poe",
+        "answer": 1
+    },
+    {
+        "question": "Wer schrieb das Buch \"Faust\"?",
+        "choice1": "Johann Wolfgang von Goethe",
+        "choice2": "Friedrich Schiller",
+        "choice3": "Heinrich Heine",
+        "choice4": "Friedrich Hölderlin",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Tier auf dem Land?",
+        "choice1": "Elefant",
+        "choice2": "Giraffe",
+        "choice3": "Nashorn",
+        "choice4": "Nilpferd",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die Hauptstadt von Frankreich?",
+        "choice1": "Marseille",
+        "choice2": "Lyon",
+        "choice3": "Paris",
+        "choice4": "Nizza",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Planeten gibt es in unserem Sonnensystem?",
+        "choice1": "7",
+        "choice2": "8",
+        "choice3": "9",
+        "choice4": "10",
+        "answer": 2
+    },
+    {
+        "question": "Wie lautet die chemische Formel für Kohlenstoffdioxid?",
+        "choice1": "CO2",
+        "choice2": "CO",
+        "choice3": "H2O",
+        "choice4": "CH4",
+        "answer": 1
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der Prozess\"?",
+        "choice1": "Franz Kafka",
+        "choice2": "Friedrich Nietzsche",
+        "choice3": "Thomas Mann",
+        "choice4": "Hermann Hesse",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Zeilen hat eine klassische Sonett-Strophe?",
+        "choice1": "10",
+        "choice2": "12",
+        "choice3": "14",
+        "choice4": "16",
+        "answer": 3
+    },
+    {
+        "question": "Wer schrieb das Buch \"Die Schatzinsel\"?",
+        "choice1": "Jules Verne",
+        "choice2": "Robert Louis Stevenson",
+        "choice3": "H.G. Wells",
+        "choice4": "Jack London",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das bevölkerungsreichste Land der Welt?",
+        "choice1": "USA",
+        "choice2": "Indien",
+        "choice3": "China",
+        "choice4": "Russland",
+        "answer": 3
+    },
+    {
+        "question": "Was ist die Hauptstadt von Italien?",
+        "choice1": "Rom",
+        "choice2": "Mailand",
+        "choice3": "Neapel",
+        "choice4": "Turin",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das höchste Gebirge der Welt?",
+        "choice1": "Anden",
+        "choice2": "Rocky Mountains",
+        "choice3": "Himalaya",
+        "choice4": "Alpen",
+        "answer": 3
+    },
+    {
+        "question": "Wie viele Spieler gibt es in einem Basketballteam?",
+        "choice1": "4",
+        "choice2": "5",
+        "choice3": "6",
+        "choice4": "7",
+        "answer": 2
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der große Gatsby\"?",
+        "choice1": "F. Scott Fitzgerald",
+        "choice2": "Ernest Hemingway",
+        "choice3": "John Steinbeck",
+        "choice4": "Mark Twain",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Land der Welt?",
+        "choice1": "USA",
+        "choice2": "Russland",
+        "choice3": "China",
+        "choice4": "Indien",
+        "answer": 2
+    },
+    {
+        "question": "Was ist die Hauptstadt von Deutschland?",
+        "choice1": "Berlin",
+        "choice2": "München",
+        "choice3": "Hamburg",
+        "choice4": "Köln",
+        "answer": 1
+    },
+    {
+        "question": "Wie viele Spieler gibt es in einem Baseballteam?",
+        "choice1": "8",
+        "choice2": "9",
+        "choice3": "10",
+        "choice4": "11",
+        "answer": 2
+    },
+    {
+        "question": "Welches ist das längste Gedicht der Welt?",
+        "choice1": "Ilias",
+        "choice2": "Die Göttliche Komödie",
+        "choice3": "Beowulf",
+        "choice4": "Mahabharata",
+        "answer": 4
+    },
+    {
+        "question": "Wie viele Ozeane gibt es auf der Erde?",
+        "choice1": "3",
+        "choice2": "4",
+        "choice3": "5",
+        "choice4": "6",
+        "answer": 2
+    },
+    {
+        "question": "Wer schrieb das Buch \"Krieg und Frieden\"?",
+        "choice1": "Leo Tolstoi",
+        "choice2": "Fjodor Dostojewski",
+        "choice3": "Michail Bulgakow",
+        "choice4": "Anton Tschechow",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die Hauptstadt von Australien?",
+        "choice1": "Sydney",
+        "choice2": "Melbourne",
+        "choice3": "Canberra",
+        "choice4": "Perth",
+        "answer": 3
+    },
+    {
+        "question": "Welches ist das älteste noch existierende Bauwerk der Welt?",
+        "choice1": "Stonehenge",
+        "choice2": "Pyramiden von Gizeh",
+        "choice3": "Chinesische Mauer",
+        "choice4": "Taj Mahal",
+        "answer": 2
+    },
+    {
+        "question": "Wie viele Zähne hat ein erwachsener Mensch normalerweise?",
+        "choice1": "28",
+        "choice2": "30",
+        "choice3": "32",
+        "choice4": "34",
+        "answer": 3
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der Herr der Ringe\"?",
+        "choice1": "J.R.R. Tolkien",
+        "choice2": "C.S. Lewis",
+        "choice3": "J.K. Rowling",
+        "choice4": "George R.R. Martin",
+        "answer": 1
+    },
+    {
+        "question": "Welches ist das größte Korallenriff der Welt?",
+        "choice1": "Great Barrier Reef",
+        "choice2": "Belize Barrier Reef",
+        "choice3": "Tubbataha-Riff",
+        "choice4": "Rotes Meer",
+        "answer": 1
+    },
+    {
+        "question": "Wer schrieb das Buch \"Der Fänger im Roggen\"?",
+        "choice1": "J.D. Salinger",
+        "choice2": "Ernest Hemingway",
+        "choice3": "F. Scott Fitzgerald",
+        "choice4": "Harper Lee",
+        "answer": 1
+    },
+    {
+        "question": "Was ist die Hauptstadt von Kanada?",
+        "choice1": "Toronto",
+        "choice2": "Ottawa",
+        "choice3": "Vancouver",
+        "choice4": "Montreal",
+        "answer": 2
+    }
+]
